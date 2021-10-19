@@ -1,0 +1,9 @@
+current directory: C:/SourceControl/Inv-GitLab/programmable-banking-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20211014-8052-9t0k5p.rb extconf.rb
+creating Makefile
+
+current directory: C:/SourceControl/Inv-GitLab/programmable-banking-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR=" clean
+current directory: C:/SourceControl/Inv-GitLab/programmable-banking-docs/vendor/bundle/ruby/2.6.0/gems/fast_blank-1.0.0/ext/fast_blank
+make "DESTDIR="
+make failedNo such file or directory - make "DESTDIR="
